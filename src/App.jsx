@@ -15,13 +15,6 @@ function App() {
         <h2 id="work-heading">Work</h2>
         <article>
           <div className="entry-heading">
-            <h3>COLLA <span>Software Engineer</span></h3>
-            <p className="period">Jul 2026 — present</p>
-          </div>
-          <p>Building a mobile app that connects content creators with brands and local businesses through barter partnerships.</p>
-        </article>
-        <article>
-          <div className="entry-heading">
             <h3>SEFAZ-PB <span>Data Engineer Intern</span></h3>
             <p className="period">2025 — present</p>
           </div>
@@ -33,6 +26,13 @@ function App() {
             <p className="period">Oct 2025 — Jan 2026</p>
           </div>
           <p>Built backend systems and AI workflows for a platform that helps authors create and review university entrance exam questions.</p>
+        </article>
+        <article>
+          <div className="entry-heading">
+            <h3>COLLA <span>Software Engineer</span></h3>
+            <p className="period">Jul 2026 — present</p>
+          </div>
+          <p>Building a mobile app that connects content creators with brands and local businesses through barter partnerships.</p>
         </article>
       </section>
       <section aria-labelledby="volunteer-heading">
